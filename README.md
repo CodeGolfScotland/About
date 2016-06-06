@@ -23,3 +23,7 @@ __Length__: 24
 __Solution__:
 
     const foo = alert("HI");
+
+==========================================
+
+__NB__: When getting the length of your solution exclude indentation and newlines from the character count. You should include function definitions.
