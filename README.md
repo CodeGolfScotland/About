@@ -18,11 +18,11 @@ Feel free to use any coding language to solve the task.
 
 __Language__: JavaScript
 
-__Length__: 24
+__Length__: 32
 
 __Solution__:
 
-    const foo = alert("HI");
+    function foo() { return 'bar'; }
 
 ==========================================
 
